@@ -44,3 +44,9 @@
   display: block;
   margin: auto;
 }
+
+.callout {
+  background: rgba(255, 230, 0, 0.17);
+  padding: 15px 25px;
+  border-radius: 20px;
+}
