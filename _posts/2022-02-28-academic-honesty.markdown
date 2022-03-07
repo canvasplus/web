@@ -6,8 +6,8 @@ categories: update
 version: "As of Febuary 28 — Version 0.4.2"
 ---
 
-<div class="callout">**This feature is experimental, and may be removed based on community response.**
-Please email us at **[mailto:talk@canvasplus.org](talk@canvasplus.org)** to express a concern or question. We're listening!
+<div class="callout"><b>This feature is experimental, and may be removed based on community response.</b>
+Please email us at <a href="mailto:talk@canvasplus.org">talk@canvasplus.org</a> to express a concern or question. We're listening!
 </div>
 
 Today, Canvas+ has been updated to version 0.4.2 which includes a _quiz refill_ feature. Our goal with this feature is to improve productivity, but this could readily be abused in certain situations.
